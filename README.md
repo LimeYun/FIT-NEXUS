@@ -601,7 +601,7 @@
 --- 
 
 
-# :gear: 6. **유지보수 (진행중)**
+# :gear: 6. **유지보수**
 
 - 컨트롤러 로직 → 서비스 계층으로 이전으로 MVC 패턴 고도화
   ![updated_code_refactoring_large](https://github.com/user-attachments/assets/2ccd6d97-5652-4205-ab68-11a26a342366)
